@@ -27,7 +27,6 @@ def word_substituter(str)
   shortStr = ""
   shortStrArr = []
 
-
   str.split(" ").each{
     |word|
 
