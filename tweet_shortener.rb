@@ -17,7 +17,7 @@ def dictionary(word)
 
   lowerCaseWord = word.downcase()
 
-  return dictionaryHash["#{word}"]
+  return dictionaryHash["#{lowerCaseWord}"]
 
 end
 
