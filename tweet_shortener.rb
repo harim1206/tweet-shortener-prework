@@ -54,7 +54,6 @@ def bulk_tweet_shortener(arr)
     puts (word_substituter(word))
   }
 
-
 end
 
 
