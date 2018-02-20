@@ -37,6 +37,8 @@ def word_substituter(str)
 
   shortStr = shortStrArr.join(" ")
 
+  puts(shortStr)
+
   return shortStr
 
 end
