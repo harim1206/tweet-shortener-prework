@@ -1,6 +1,4 @@
 # Write your code here.
-
-
 def dictionary(word)
   dictionaryHash = {
     "hello" => "hi",
