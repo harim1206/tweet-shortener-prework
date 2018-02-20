@@ -55,3 +55,9 @@ def bulk_tweet_shortener(arr)
   }
 
 end
+
+
+
+
+
+def selective_tweet_shortener
