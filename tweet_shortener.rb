@@ -29,7 +29,6 @@ def word_substituter(str)
 
   str.split(" ").each{
     |word|
-    puts("dictionary(word): #{word}: #{dictionary(word)}")
 
     if dictionary(word) != nil
       shortStrArr << dictionary(word)
