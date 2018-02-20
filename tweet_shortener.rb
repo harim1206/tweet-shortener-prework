@@ -22,6 +22,9 @@ def dictionary(word)
 end
 
 
+
+
+
 def word_substituter(str)
   shortStr = ""
   shortStrArr = []
